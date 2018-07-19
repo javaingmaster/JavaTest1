@@ -15,4 +15,4 @@ mvn clean
 mvn package
 mvn install
 java -jar target/three.jar
-cd..
+cd ..

@@ -1,7 +1,6 @@
 package com.hand;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import com.hand.ImplClass.ListOfThreeFactory;
 
 public class MainThree {
 	public static void main(String[] args) {
